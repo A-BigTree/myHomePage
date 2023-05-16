@@ -16,8 +16,12 @@
           <a href="https://github.com/A-BigTree" target="_blank" rel="noopener noreferrer">
             <i class="fa-brands fa-github"></i>GitHub
           </a>
-          <a href="#" target="_blank" rel="noopener noreferrer">
+          <a href="https://blog.csdn.net/weixin_53580595" target="_blank" rel="noopener noreferrer">
             <i class="fa-solid fa-blog"></i>CSDN
+          </a>
+          <br>
+          <a href="mailto:shuxinwang662@gmail.com">
+            <i class="fa-solid fa-envelope"></i>邮件
           </a>
           <!--
           <a href="https://blog.iyuan.ltd/about" target="_blank" rel="noopener noreferrer">
@@ -26,23 +30,14 @@
         </div>
       </div>
     </div>
-
     <hr />
-
     <div class="footer">
       <div class="contact">
-        <h2>📮 联系我</h2>
-        <ul>
-          <li>Email:<a href="shuxinwang662@gmail.com">shuxinwang662@gmail.com</a></li>
-          <li>QQ:2177742990</li>
-        </ul>
-      </div>
-      <div class="project">
-        <h2>📦 项目</h2>
+        <h2>📦最新项目</h2>
         <ul>
           <li>
             <a href="http://101.200.59.252/seu_hotel/" target="_blank" rel="noopener noreferrer">
-                软件工程课程项目:SEU HOTEL
+                <strong>SEU Hotel酒店预订🎉🎉🎉</strong>
             </a>
           </li>
           <li>
@@ -50,9 +45,25 @@
                 酒店数据爬取
             </a>
           </li>
+        </ul>
+
+      </div>
+      <div class="project">
+        <h2>📌历史项目</h2>
+        <ul>
           <li>
-            <a href="http://101.200.59.252/seu_hotel/" target="_blank" rel="noopener noreferrer">
+            <a href="https://github.com/A-BigTree/vuepress-starter" target="_blank" rel="noopener noreferrer">
+              VuePress个人博客
+            </a>
+          </li>
+          <li>
+            <a href="https://github.com/A-BigTree/searchmanage_Wiki" target="_blank" rel="noopener noreferrer">
                 大规模知识图谱请求API集成
+            </a>
+          </li>
+          <li>
+            <a href="https://github.com/A-BigTree/college_assignment/tree/main/compiler_Experiment" target="_blank" rel="noopener noreferrer">
+                基于Java设计模式-词法文法分析器
             </a>
           </li>
         </ul>

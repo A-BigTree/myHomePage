@@ -10,7 +10,7 @@
         <div class="name">一棵大树🌳</div>
         <div class="desc">🐱热爱技术，交流分享😺</div>
         <div class="navbar">
-          <a href="http://101.200.59.252/blog/" target="_blank" rel="noopener noreferrer">
+          <a href="https://abigtree.top/blog/" target="_blank" rel="noopener noreferrer">
             <i class="fa-solid fa-newspaper"></i>个人博客
           </a>
           <a href="https://github.com/A-BigTree" target="_blank" rel="noopener noreferrer">
@@ -36,7 +36,7 @@
         <h2>📦最新项目</h2>
         <ul>
           <li>
-            <a href="http://101.200.59.252/seu_hotel/" target="_blank" rel="noopener noreferrer">
+            <a href="https://abigtree.top/seu_hotel/" target="_blank" rel="noopener noreferrer">
                 <strong>SEU Hotel酒店预订🎉🎉🎉</strong>
             </a>
           </li>

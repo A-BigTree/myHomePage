@@ -69,5 +69,10 @@
         </ul>
       </div>
     </div>
+
+    <div class="copyright mt-4 mb-4">
+      <p>© 2022 ABigTree</p>
+      <p><a href="https://beian.miit.gov.cn">鲁ICP备2023020420号</a></p>
+    </div>
   </div>
 </template>

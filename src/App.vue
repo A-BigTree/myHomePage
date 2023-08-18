@@ -71,8 +71,15 @@
     </div>
 
     <div class="copyright mt-4 mb-4">
-      <p>© 2022 ABigTree</p>
-      <p><a href="https://beian.miit.gov.cn">鲁ICP备2023020420号</a></p>
+      <p style="text-align: center;">© 2023 ABigTree</p>
+		 	<p style="text-align: center;">
+        <a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=32011502011910">
+          <img src="/assets/img/beian.png" style="float:left;"/>
+            苏公网安备 32011502011910号
+            &nbsp;&nbsp;
+        </a>
+        <a href="https://beian.miit.gov.cn">鲁ICP备2023020420号</a>
+      </p>
     </div>
   </div>
 </template>

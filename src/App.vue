@@ -1,4 +1,5 @@
-<script setup></script>
+<script setup>
+</script>
 
 <template>
   <div class="card-container">
@@ -23,10 +24,6 @@
           <a href="mailto:shuxinwang662@gmail.com">
             <i class="fa-solid fa-envelope"></i>邮件
           </a>
-          <!--
-          <a href="https://blog.iyuan.ltd/about" target="_blank" rel="noopener noreferrer">
-            <i class="fa-solid fa-mug-saucer"></i>关于
-          </a>-->
         </div>
       </div>
     </div>
@@ -36,8 +33,13 @@
         <h2>📦最新项目</h2>
         <ul>
           <li>
-            <a href="https://abigtree.top/seu_hotel/" target="_blank" rel="noopener noreferrer">
-                <strong>SEU Hotel酒店预订🎉🎉🎉</strong>
+            <a href="https://github.com/A-BigTree/seu-e-commerce" target="_blank" rel="noopener noreferrer">
+                <strong>SEU分布式微服务电商🎉🎉🎉</strong>
+            </a>
+          </li>
+          <li>
+            <a href="https://github.com/A-BigTree/minisys-minicc-java" target="_blank" rel="noopener noreferrer">
+              基于Java-MiniCc编译器
             </a>
           </li>
           <li>
@@ -52,8 +54,8 @@
         <h2>📌历史项目</h2>
         <ul>
           <li>
-            <a href="https://github.com/A-BigTree/vuepress-starter" target="_blank" rel="noopener noreferrer">
-              VuePress个人博客
+            <a href="https://github.com/A-BigTree/seu_hotel_Booking" target="_blank" rel="noopener noreferrer">
+              SEU酒店管理微服务
             </a>
           </li>
           <li>
@@ -72,14 +74,6 @@
 
     <div class="copyright mt-4 mb-4">
       <p style="text-align: center;">© 2023 ABigTree</p>
-		 	<p style="text-align: center;">
-        <a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=32011502011910">
-          <img src="/assets/img/beian.png" style="float:left;"/>
-            苏公网安备 32011502011910号
-            &nbsp;&nbsp;
-        </a>
-        <a href="https://beian.miit.gov.cn">鲁ICP备2023020420号</a>
-      </p>
     </div>
   </div>
 </template>
